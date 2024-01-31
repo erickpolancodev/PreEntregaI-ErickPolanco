@@ -1,3 +1,7 @@
 body{
-    background-color: darkslategrey;
+    background-color: white;
+}
+
+.hero{
+    height: 250px;
 }
